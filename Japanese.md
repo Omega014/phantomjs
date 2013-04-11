@@ -1,4 +1,4 @@
-# [PhantomJS](http://phantomjs.org)日本語マニュアル
+# [PhantomJS](http://phantomjs.org)日本語ガイド
 
 PhantomJS ([www.phantomjs.org](http://phantomjs.org)) はJavaScriptやCoffeScripptを使ってヘッドレス(GUIのない、コマンドで)にWebkitをスクリプト化することができます。
 Web関連の開発ワークフローにおいて何百人の[開発者](https://github.com/ariya/phantomjs/wiki/Buzz)や数十の[組織](https://github.com/ariya/phantomjs/wiki/Users)によって使用されています。
