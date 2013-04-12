@@ -36,7 +36,7 @@ PhantomJSはスタンドアロンな道具としてのみ使用される必要�
 
 ##わからないことがあったら
 - [ドキュメント](https://github.com/ariya/phantomjs/wiki)を読む
-- PhantomJSを使った大量の[記事](https://github.com/ariya/phantomjs/wiki/Buzz)を読む
+- PhantomJSに関する[記事](https://github.com/ariya/phantomjs/wiki/Buzz)を読む
 - [メーリングリスト](http://groups.google.com/group/phantomjs)に参加し、他のPhantomJSファンと議論する
 
 PhantomJSはフリーソフトウェア/オープンソースであり、[BSDライセンス](http://opensource.org/licenses/BSD-3-Clause)の下で配布されています。これは、第三者製のコードが含まれています。第三者のコードライセンス情報は付属の `third-party.txt` ファイルを参照して下さい。
